@@ -1,0 +1,18 @@
+{
+  "name": "equinox-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Focus on blue. Medium-to-high contrast.",
+  "keywords": [
+    "syntax",
+    "blue",
+    "purple",
+    "teal",
+    "dark"
+  ],
+  "repository": "https://github.com/protesilaos/equinox-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
